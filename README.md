@@ -1,4 +1,3 @@
-### Hi there 👋
 <!-- Greeting -->
 # Hey there! :wave::smiley:
 
