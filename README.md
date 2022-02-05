@@ -7,10 +7,10 @@ I'm Darshankumar! I'm a **Senior Software Engineer**:iphone:, looking to solve *
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dp91)
-[![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/darshanpatel)
-[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/dp91.learn)
-[![Email](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:darshankumar.patel@hotmail.com)
+[![Linkedin](https://img.shields.io/badge/-dp91-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dp91)
+[![Telegram](https://img.shields.io/badge/-@darshanpatel-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/darshanpatel)
+[![HackerRank](https://img.shields.io/badge/-dp91.learn-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/dp91.learn)
+[![Email](https://img.shields.io/badge/-darhankumar.patel-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:darshankumar.patel@hotmail.com)
 
 <!-- Profile View Count -->
 ![](https://komarev.com/ghpvc/?username=darshan-kumar-patel&style=flat)
