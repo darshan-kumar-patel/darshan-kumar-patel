@@ -20,7 +20,6 @@ I'm Darshankumar! I'm a **Senior Software Engineer**:iphone:, looking to solve *
 
 ### 💼  Things that I'm currently working on: 
 * Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
 * Looking forward to take a Flutter:calling: course in future.
 * 🔜
 
